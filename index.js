@@ -1,3 +1,12 @@
+function iLoveTheBeatles(num) {
+  var array =[]
+  do {
+  arrray.push("I love the Beatles!")
+  } while (num<15)
+  return array
+}
+
+
 function theBeatlesPlay(musicians, instruments) {
   var array = []
   for(let i=0; i<musicians.length; i++) {
